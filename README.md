@@ -19,7 +19,7 @@ Minha jornada une qualidade de dados, cloud computing e saúde, com foco em cons
 ## 📂 Projetos em Destaque
 
 ### 🏥 [Data Engineering Health Journey](https://github.com/friszao-dev/data-engineering-health-journey)
-Projeto end-to-end com ingestão de dados de saúde pública via **Docker + Postgres 18+**. 
+Projeto end-to-end com ingestão de dados de saúde pública via **Docker + Postgres**. 
 - **Destaque:** Documentação técnica detalhada sobre resolução de conflitos de volumes (Troubleshooting) e modelagem de dados hospitalares.
 
 ---
