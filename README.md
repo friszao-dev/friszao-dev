@@ -1,27 +1,36 @@
 # Olá, eu sou Filipe Fidélis 👋
 
-**Engenheiro de Dados | Saúde & Analytics | Cloud Data Solutions**
+**Engenheiro de Dados em Transição | SQL, Python & Cloud Health**
 
-Sou um profissional com mais de **15 anos de experiência** em Tecnologia da Informação, tenho me dedicado na construção de pipelines de dados, infraestrutura escalável e inteligência aplicada ao setor de **Health Data**. Minha base sólida em sistemas ERP e processos de negócio me permite unir visão sistêmica à engenharia técnica.
+Profissional com background técnico em TI e infraestrutura, atualmente em transição estruturada para a Engenharia de Dados. Unindo experiência prática em suporte e sistemas com especialização acadêmica no Hospital Israelita Albert Einstein e SENAI, foco no desenvolvimento de soluções de dados escaláveis e seguras para o setor de saúde.
 
 Atualmente, curso **Pós-Graduação em Data Science Aplicada à Saúde** pelo Hospital Israelita Albert Einstein, aprofundando o uso de dados em ambientes críticos, regulados e orientados por governança e LGPD.
 
-**Projeto Atual:**  
-[Data Engineering Health Journey](https://github.com/friszao-dev/data-engineering-health-journey) — Pipeline end-to-end para dados do DATASUS utilizando Python, BigQuery e dbt.
+**O que estou construindo agora:**  
+Pipeline DATASUS: Ingestão de dados reais de leitos hospitalares utilizando Python, Pandas e SQLAlchemy.
+Data Modeling: Arquitetura de dados em camadas (Bronze, Silver, Gold) utilizando PostgreSQL e Docker.
+Modelagem Dimensional: Implementação de Star Schema (Fatos e Dimensões) para análise de capacidade hospitalar.
+Cloud Foundation: Especialização em AWS (S3, Athena, IAM) com foco em Data Lakes.
 
 ---
 
 ## Tecnologias & Ferramentas
 * **Linguagens & Bancos:** Python, SQL, PostgreSQL, BigQuery  
-* **Infraestrutura & Cloud:** Docker, AWS (S3, Glue, Athena), Google Cloud Platform (GCP)  
+* **Infraestrutura & Cloud:** Docker, Docker-compose, AWS, GCP 
 * **Ferramentas:** dbt, Git, GitHub, DBeaver, SQLFluff  
-* **Domínio:** Sistemas ERP, Processos de Saúde Pública (DATASUS), Interoperabilidade  
+* **Domínio:** Sistemas ERP, Saúde (LGPD e Dados de Saúde Pública), Interoperabilidade  
 
 ---
 
-## Formação & Certificações (em andamento)
+## Formação & Certificações
 - Pós-Graduação em Data Science Aplicada à Saúde — Hospital Israelita Albert Einstein  
-- AWS Certified Cloud Practitioner — SENAI  
+- Especialização em Cloud Computing (AWS) – SENAI
+- Bacharel em Administração – Universidade Pitágoras do Paraná
+
+---
+
+## Por que Engenharia de Dados na Saúde?
+Acredito que a tecnologia e a modelagem correta de dados são as ferramentas mais poderosas para transformar a gestão hospitalar e a vida do paciente. Minha transição é movida pela vontade de construir a infraestrutura que permite essas descobertas.
 
 ---
 
@@ -29,4 +38,3 @@ Atualmente, curso **Pós-Graduação em Data Science Aplicada à Saúde** pelo H
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipe-fidélis)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipefidelis598@gmail.com)
 
-*Minha missão é transformar dados de saúde em informação confiável e estratégica.*
