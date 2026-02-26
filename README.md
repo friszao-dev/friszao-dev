@@ -7,10 +7,10 @@ Profissional com background técnico em TI e infraestrutura, atualmente em trans
 Atualmente, curso **Pós-Graduação em Data Science Aplicada à Saúde** pelo Hospital Israelita Albert Einstein, aprofundando o uso de dados em ambientes críticos, regulados e orientados por governança e LGPD.
 
 **O que estou construindo agora:**  
-Pipeline DATASUS: Ingestão de dados reais de leitos hospitalares utilizando Python, Pandas e SQLAlchemy.
-Data Modeling: Arquitetura de dados em camadas (Bronze, Silver, Gold) utilizando PostgreSQL e Docker.
-Modelagem Dimensional: Implementação de Star Schema (Fatos e Dimensões) para análise de capacidade hospitalar.
-Cloud Foundation: Especialização em AWS (S3, Athena, IAM) com foco em Data Lakes.
+- Pipeline DATASUS: Ingestão de dados reais de leitos hospitalares utilizando Python, Pandas e SQLAlchemy.
+- Data Modeling: Arquitetura de dados em camadas (Bronze, Silver, Gold) utilizando PostgreSQL e Docker.
+- Modelagem Dimensional: Implementação de Star Schema (Fatos e Dimensões) para análise de capacidade hospitalar.
+- Cloud Foundation: Especialização em AWS (S3, Athena, IAM) com foco em Data Lakes.
 
 ---
 
