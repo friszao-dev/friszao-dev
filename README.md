@@ -15,9 +15,9 @@ Atualmente, curso **Pós-Graduação em Data Science Aplicada à Saúde** pelo H
 ---
 
 ## Tecnologias & Ferramentas
-* **Linguagens & Bancos:** Python, SQL, PostgreSQL, BigQuery  
+* **Linguagens & Bancos:** Python, SQL, PostgreSQL, SQL Server  
 * **Infraestrutura & Cloud:** Docker, Docker-compose, AWS, GCP 
-* **Ferramentas:** dbt, Git, GitHub, DBeaver, SQLFluff  
+* **Ferramentas:** DBeaver, pgAdmin, SSMS, Git e GitHub
 * **Domínio:** Sistemas ERP, Saúde (LGPD e Dados de Saúde Pública), Interoperabilidade  
 
 ---
