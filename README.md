@@ -1,12 +1,10 @@
 # Olá, eu sou Filipe Fidélis 👋
 
-**Data Engineering & Analytics | SQL | Python | AWS | Health Data (Albert Einstein)**
+**Data Engineering & Analytics | SQL | Python | AWS | Health Data**
 
 Profissional com base sólida em TI e infraestrutura, com foco no setor de dados em saúde. Pós-graduando em Data Science Aplicada à Saúde pelo Hospital Israelita Albert Einstein e cursando Cloud Computing (AWS) pelo SENAI. 
 
 Atualmente desenvolvo pipelines end-to-end com Python, Pandas e SQLAlchemy. Trabalho com dados reais do DATASUS organizados em arquitetura de camadas utilizando Docker e PostgreSQL. Tenho direcionado meus conhecimentos em projetos com foco na qualidade de dados e construção de estruturas consistentes para análise no setor de saúde.
-
-Atualmente, curso **Pós-Graduação em Data Science Aplicada à Saúde** pelo Hospital Israelita Albert Einstein, aprofundando o uso de dados em ambientes críticos, regulados e orientados por governança e LGPD.
 
 **O que estou construindo agora:**  
 - Pipeline DATASUS: Ingestão de dados reais de leitos hospitalares utilizando Python, Pandas e SQLAlchemy.
