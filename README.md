@@ -1,6 +1,6 @@
 # Olá, eu sou Filipe Fidélis 👋
 
-**Engenheiro de Dados em Transição | SQL, Python & Cloud Health**
+**Data Engineering & Analytics | SQL | Python | AWS | Health Data (Albert Einstein)**
 
 Profissional com background técnico em TI e infraestrutura, atualmente em transição estruturada para a Engenharia de Dados. Unindo experiência prática em suporte e sistemas com especialização acadêmica no Hospital Israelita Albert Einstein e SENAI, foco no desenvolvimento de soluções de dados escaláveis e seguras para o setor de saúde.
 
@@ -16,7 +16,7 @@ Atualmente, curso **Pós-Graduação em Data Science Aplicada à Saúde** pelo H
 
 ## Tecnologias & Ferramentas
 * **Linguagens & Bancos:** Python, SQL, PostgreSQL, SQL Server  
-* **Infraestrutura & Cloud:** Docker, Docker-compose, AWS, GCP 
+* **Infraestrutura & Cloud:** Docker, Docker-compose, AWS 
 * **Ferramentas:** DBeaver, pgAdmin, SSMS, Git e GitHub
 * **Domínio:** Sistemas ERP, Saúde (LGPD e Dados de Saúde Pública), Interoperabilidade  
 
