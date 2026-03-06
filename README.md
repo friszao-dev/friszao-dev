@@ -2,7 +2,9 @@
 
 **Data Engineering & Analytics | SQL | Python | AWS | Health Data (Albert Einstein)**
 
-Profissional com background técnico em TI e infraestrutura, atualmente em transição estruturada para a Engenharia de Dados. Unindo experiência prática em suporte e sistemas com especialização acadêmica no Hospital Israelita Albert Einstein e SENAI, foco no desenvolvimento de soluções de dados escaláveis e seguras para o setor de saúde.
+Profissional com base sólida em TI e infraestrutura, com foco no setor de dados em saúde. Pós-graduando em Data Science Aplicada à Saúde pelo Hospital Israelita Albert Einstein e cursando Cloud Computing (AWS) pelo SENAI. 
+
+Atualmente desenvolvo pipelines end-to-end com Python, Pandas e SQLAlchemy. Trabalho com dados reais do DATASUS organizados em arquitetura de camadas utilizando Docker e PostgreSQL. Tenho direcionado meus conhecimentos em projetos com foco na qualidade de dados e construção de estruturas consistentes para análise no setor de saúde.
 
 Atualmente, curso **Pós-Graduação em Data Science Aplicada à Saúde** pelo Hospital Israelita Albert Einstein, aprofundando o uso de dados em ambientes críticos, regulados e orientados por governança e LGPD.
 
