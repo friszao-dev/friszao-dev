@@ -11,13 +11,15 @@ Atualmente desenvolvo pipelines end-to-end com Python, Pandas e SQLAlchemy. Trab
 - Data Modeling: Arquitetura de dados em camadas (Bronze, Silver, Gold) utilizando PostgreSQL e Docker.
 - Modelagem Dimensional: Implementação de Star Schema (Fatos e Dimensões) para análise de capacidade hospitalar.
 - Cloud Foundation: Especialização em AWS (S3, Athena, IAM) com foco em Data Lakes.
+- CI/CD: Pipeline de qualidade com SQLFluff e GitHub Actions rodando a cada push.
+- Visualização: Dashboard analítico com Metabase conectado ao PostgreSQL.
 
 ---
 
 ## Tecnologias & Ferramentas
 * **Linguagens & Bancos:** Python, SQL, PostgreSQL, SQL Server  
 * **Infraestrutura & Cloud:** Docker, Docker-compose, AWS 
-* **Ferramentas:** DBeaver, pgAdmin, SSMS, Git e GitHub
+* **Ferramentas:** DBeaver, pgAdmin, Git, GitHub, SQLFluff, GitHub Actions, Metabase, Power BI
 * **Domínio:** Sistemas ERP, Saúde (LGPD e Dados de Saúde Pública), Interoperabilidade  
 
 ---
